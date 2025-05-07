@@ -13,7 +13,7 @@ What are the factors that determine whether a driver accepts the coupon once it 
 ## **Notebook & Data**
 
  The Jupyter Notebook containing the analysis of the problem can be found here: [Notebook](https://github.com/sreela-gopi/Practical_Application_5_1/blob/main/practical_assignment_5_1_prompt.ipynb) <br>
- The dataset provided for the analysis can be found here : [Dataset](https://www.google.com)
+ The dataset provided for the analysis can be found here : [Dataset](https://github.com/sreela-gopi/Practical_Application_5_1/blob/main/data/coupons.csv)
 
 ## **Findings of the analysis**
 Across the five different types of coupons - less expensive restaurents (under 20), coffee houses, carry out & take away, bar, and more expensive restaurents(20 - $50), **around 57% of the people accepted the coupons**.
