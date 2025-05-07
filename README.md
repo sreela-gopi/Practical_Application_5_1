@@ -29,7 +29,7 @@ Across the five different types of coupons - less expensive restaurents (under 2
   2. There is no clear pattern in the distribution of temperature across the data
   3. Drivers are more likely to accept the coupons as temperature goes higher
 
-###**Bar coupon insights:** 
+### **Bar coupon insights:** 
 
   Around 41% of the Bar coupons were accepted.
 *  **The number of times the drivers visit a bar in a month is an indicator**    
