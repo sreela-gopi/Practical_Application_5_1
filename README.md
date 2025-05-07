@@ -2,7 +2,7 @@
 
 ### **Project goal:** 
 
-This assignment is to find out whether a customer will accept a restaurent coupon delivered to their phone while driving near the location. Perform an Exploratory Data ANalysis (EDA) to answer the question.
+This assignment is to find out whether a customer will accept a restaurent coupon delivered to their phone while driving near the location. Perform an Exploratory Data Analysis (EDA) to answer the question.
 
 ### **Problem Context:** 
 
@@ -56,7 +56,7 @@ Across the five different types of coupons - less expensive restaurents (under 2
  2. During the morning hours around 10am is the highest number of Coffee House coupon acceptance rate.
  3. In the Afternoon hours the acceptance rate slighly decreases.
  4. At night around 10 pm the coupon acceptance is very low.
-*   **The number of times  adriver visits coffee house in a month plays a role**  
+*   **The number of times  a driver visits coffee house in a month plays a role**  
  1. Among the people who go to a coffee house people who go 1 to 3 times a month has the highest rate of acceptance.
  2. People who never visit coffee house has the lowest rate of acceptance.
  3. People who visit more number of times a month has lower acceptance rate than who visits less.
@@ -75,21 +75,21 @@ Across the five different types of coupons - less expensive restaurents (under 2
 
 ## **Actionable insights & Business Recommendations**
 1.   Age is an important feature that affects the acceptance of bar coupon which is easy to track. So delivering bar coupons to appropriate age group will do good for the business
-2.   Unemployed people has the highest rejectio rate. So, delivering the bar coupons based on a basic varification as employed or unemployed will be good for business.
+2.   Unemployed people has the highest rejection rate. So, delivering the bar coupons based on a basic varification as employed or unemployed will be good for business.
 3. Destination of a driver is an important factor that affects the coupon acceptance rate. So delivering coffee house coupons based on the possible destination can do good for business.
-4. Delivering the coupon, based on the time of the day can be good for business as time as a good impoact in acceptance rate.
+4. Delivering the coupon, based on the time of the day can be good for business as time has a good impact in acceptance rate.
 
 
 ## **Next steps & Future Recommentions**
-1. The dataset contains columns that are not relevant in deciding the accepatnce rate of the coupons like `car` which contains many missing values. Irrelevant data could be avoided to have precise analysis.
-2. Confusing data columns are present like `toCoupon_GEQ5min`, `toCoupon_GEQ15min`, `toCoupon_GEQ25min` whose values are difficult to interpret. This affects the quality of the analysis. If these are not important, they could be avoided.
+1. The dataset contains columns that are not relevant in deciding the accepatnce rate of the coupons like `car` which contains many missing values. Irrelevant data could be avoided to conduct precise analysis.
+2. Confusing data columns are present like `toCoupon_GEQ5min`, `toCoupon_GEQ15min`, `toCoupon_GEQ25min` whose values are difficult to interpret. This affects the quality of the analysis. If these are not important, could be avoided.
 
 ## **Tech Stack**
 
 **Python:** Pandas, NumPy <br>
 **Data Visualization:** Matplotlib, Seaborn
 
-This assignment was completed as part of the Practical Assignment 5.1 of  Professional Certificate in Machine Learning & Artificial Intelligence - March 2025
+This assignment was completed as part of the Practical Application Assignment 5.1 of Professional Certificate in Machine Learning & Artificial Intelligence - March 2025
 
 
 
