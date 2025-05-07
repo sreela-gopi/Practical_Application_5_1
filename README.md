@@ -12,7 +12,7 @@ What are the factors that determine whether a driver accepts the coupon once it 
 
 ## **Notebook & Data**
 
- The Jupyter Notebook containing the analysis of the problem can be found here: [Notebook](https://www.google.com) <br>
+ The Jupyter Notebook containing the analysis of the problem can be found here: [Notebook]([https://www.google.com](https://github.com/sreela-gopi/Practical_Application_5_1/blob/main/practical_assignment_5_1_prompt.ipynb)) <br>
  The dataset provided for the analysis can be found here : [Dataset](https://www.google.com)
 
 ## **Findings of the analysis**
